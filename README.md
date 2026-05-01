@@ -2,7 +2,11 @@ CHICKEN PROJECT: A TRIBUTE TO STARDEW VALLEY
 
 📽️ ANIMATION PREVIEW
 
+![Chicken-Animation](chicken-tribute-repaint.gif)
 
+🗒️THE SPRITE 
+
+![Chicken-Animation-frame-frame](chicken-tribute-repaint.png)
 
 🚀 THE TRIBUTE
 
